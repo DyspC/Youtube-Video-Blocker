@@ -1,11 +1,11 @@
 {
   "cmBlockVideos": {
     "description": "Block videos from this channel",
-    "message": "Block videos from this channel"
+    "message": "Blockiere alle Videos von diesem Kanal"
   },
   "extDescription": {
     "description": "Extension description",
-    "message": "Hide annoying videos on YouTube from any channel you want!"
+    "message": "Verstecke nervige Youtube-Videos von jedem beliebigen Kanal!"
   },
   "extName": {
     "description": "Extension name",
@@ -17,19 +17,19 @@
   },
   "loadingExtension": {
     "description": "Loading explanation",
-    "message": "One second please, the extension's data is being loaded from your browser. If this message does not disappear, try reinstalling the extension."
+    "message": "Einen Moment bitte, die Daten werden geladen. Sollte diese Nachricht nicht verschwinden, installieren Sie die Erweiterung bitte neu."
   },
   "opHelp": {
     "description": "Help",
-    "message": "Help"
+    "message": "Hilfe"
   },
   "opHi": {
     "description": "Hi",
-    "message": "Hi there!"
+    "message": "Hey!"
   },
   "opHiDescription": {
     "description": "Hi explanation",
-    "message": "Thank you for using this extension."
+    "message": "Danke, dass Sie diese Erweiterung benutzten!"
   },
   "opIcon": {
     "description": "Icon",
@@ -37,15 +37,15 @@
   },
   "opIconDescription": {
     "description": "Icon description",
-    "message": "Toggle the icon to be enabled or disabled. You need to refresh open YouTube pages to see the change. (It's no longer possible to hide the icon, so this is the best I can do.)"
+    "message": "Aktivieren oder deaktivieren Sie das Add-on Icon. Laden Sie die Webseite neu, um die Änderung sichtbar zu machen."
   },
   "opIconLabel": {
     "description": "Icon label",
-    "message": "Enable the extension's icon in the address bar"
+    "message": "Anzeigen des Add-on Icons in der Adress-Zeile"
   },
   "opList": {
     "description": "List",
-    "message": "List"
+    "message": "Liste"
   },
   "opLogin": {
     "description": "Login",
@@ -53,83 +53,83 @@
   },
   "opLoginDescription": {
     "description": "Login description",
-    "message": "To access the settings, you'll need to enter your password for the extension."
+    "message": "Um Zugriff auf die Einstellungen zu erhalten, müssen Sie das Passwort des Add-ons eingeben."
   },
   "opPassword": {
     "description": "Password access",
-    "message": "Extension password"
+    "message": "Add-on Passwort"
   },
   "opPasswordChange": {
     "description": "Change password",
-    "message": "Change password"
+    "message": "Passwort ändern"
   },
   "opPasswordCurrent": {
     "description": "Current password",
-    "message": "Current password:"
+    "message": "Aktuelles Passwort:"
   },
   "opPasswordDescription": {
     "description": "Password description",
-    "message": "Leave 'New password' blank to remove the password. Please note that the extension can still be removed without entering the password.\u003Cbr>\u003Cstrong>If you loose this password, the only way to get the extension to work again is by reinstalling the extension. Your blocked items will not be recovered!\u003C/strong>"
+    "message": "Lassen Sie 'Neues Passwort' frei um den Passwortschutz deaktivieren. Bitte beachten Sie, dass die Erweiterung trotz Passwortschutz entfernt werden kann!\u003Cbr>\u003Cstrong>Sollten Sie das Passwort verloren haben, müssen Sie die Erweiterung neuinstallieren. Dabei gehen alle Filtereinträge verloren falls diese nicht gesichert wurden!\u003C/strong>"
   },
   "opPasswordNew1": {
     "description": "New password",
-    "message": "New password:"
+    "message": "Neues Passwort:"
   },
   "opPasswordNew2": {
     "description": "Repeat new password",
-    "message": "Repeat new password:"
+    "message": "Passwort wiederholen:"
   },
   "opRedirect": {
     "description": "Redirect",
-    "message": "Redirect"
+    "message": "Weiterleiten"
   },
   "opRedirectDescription": {
     "description": "Redirect description",
-    "message": "Toggle if you want to be redirected to the homepage when you visit a video that should be blocked (e.g. via a link)."
+    "message": "Aktivieren, falls Sie auf die Hauptseite weitergeleitet werden wollen wenn ein Video geblockt wurde (z.B. durch einen Link)."
   },
   "opRedirectLabel": {
     "description": "Redirect label",
-    "message": "Redirect when visiting a blocked video via a link"
+    "message": "Weiterleiten, wenn Sie über einen Link auf ein geblocktes Video geleitet werden"
   },
   "opSettings": {
     "description": "Settings",
-    "message": "Settings"
+    "message": "Einstelllungen"
   },
   "paAdd": {
     "description": "Add",
-    "message": "Add"
+    "message": "Hinzufügen"
   },
   "paChannel": {
     "description": "Channel",
-    "message": "Channel"
+    "message": "Kanal"
   },
   "paEmpty": {
     "description": "Empty",
-    "message": "Empty"
+    "message": "Leer"
   },
   "paEmptyConfirm": {
     "description": "Confirmation to empty the list",
-    "message": "Really empty the whole list?"
+    "message": "Soll die komplette Liste wirklich gelöscht werden?"
   },
   "paExport": {
     "description": "Export",
-    "message": "Export"
+    "message": "Exportieren"
   },
   "paImport": {
     "description": "Import",
-    "message": "Import"
+    "message": "Importieren"
   },
   "paItemTotal": {
     "description": "item in total (singular)",
-    "message": "item in total"
+    "message": "Eintrag"
   },
   "paItemsTotal": {
     "description": "items in total (multiple)",
-    "message": "items in total"
+    "message": "Einträge"
   },
   "paKeyword": {
     "description": "Keyword",
-    "message": "Keyword"
+    "message": "Keywort"
   },
   "paLogin": {
     "description": "Login",
@@ -137,35 +137,35 @@
   },
   "paLoginDescription": {
     "description": "Login description",
-    "message": "A password has been set to protect the blocked items. Please enter the password to access the list."
+    "message": "Ein Passwort wurde gesetzt um die zu blockierenden Elemente zu beschützen. Bitte geben Sie das Passwort ein um Zugriff auf die Liste zu erhalten"
   },
   "paNoSearchResults": {
     "description": "No search results found",
-    "message": "No search results found"
+    "message": "Keine Suchergebnisse gefunden"
   },
   "paNothingHere": {
     "description": "No items in the list yet",
-    "message": "Nothing to show here (yet)"
+    "message": "Keine Einträge vorhanden"
   },
   "paSearch": {
     "description": "Search",
-    "message": "Search"
+    "message": "Suche"
   },
   "paSearchPlaceholder": {
     "description": "Search field placeholder",
-    "message": "Search for specific entries in the list..."
+    "message": "Suchen Sie nach Einträge der Liste..."
   },
   "paSearchResult": {
     "description": "search result found (singular)",
-    "message": "search result found"
+    "message": "Suchergebniss gefunden"
   },
   "paSearchResults": {
     "description": "search results found (multiple)",
-    "message": "search results found"
+    "message": "Suchergebnisse gefunden"
   },
   "paSettings": {
     "description": "Settings",
-    "message": "Settings"
+    "message": "Einstellungen"
   },
   "paWildcard": {
     "description": "Wildcard",
@@ -173,26 +173,26 @@
   },
   "paYes": {
     "description": "Yes",
-    "message": "Yes"
+    "message": "Ja"
   },
   "pageActionTitle": {
     "description": "Title for the page action button",
-    "message": "Journey's Youtube Video Blocker - Controls"
+    "message": "Journey's Youtube Video Blocker - Einstellungen"
   },
   "passwordChanged": {
     "description": "Password changed",
-    "message": "Password has been successfully changed."
+    "message": "Das Passwort wurde erfolgreich geändert."
   },
   "wrongCurrentPassword": {
     "description": "Incorrect current password",
-    "message": "The current password is not correct."
+    "message": "Das aktuelle Passwort ist falsch."
   },
   "wrongMatchingPasswords": {
     "description": "Not matching passwords",
-    "message": "The new passwords don't match."
+    "message": "Beide Passwörter stimmen nicht überein."
   },
   "wrongPassword": {
     "description": "Incorrect password",
-    "message": "The password is not correct."
+    "message": "Das eingegebene Passwort ist falsch."
   }
 }

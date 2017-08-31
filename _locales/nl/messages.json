@@ -9,7 +9,7 @@
   },
   "extName": {
     "description": "Extension name",
-    "message": "Video Blocker"
+    "message": "Journey's Youtube Video Blocker"
   },
   "extShortName": {
     "description": "Extension short name",
@@ -18,10 +18,6 @@
   "loadingExtension": {
     "description": "Loading explanation",
     "message": "Een ogenblikje alsjeblieft, de gegevens van de extensie worden geladen. Als dit bericht niet weg gaat, probeer dan de extensie opnieuw te installeren."
-  },
-  "opDonate": {
-    "description": "Donate",
-    "message": "Doneren"
   },
   "opHelp": {
     "description": "Help",
@@ -107,10 +103,6 @@
     "description": "Channel",
     "message": "Kanaal"
   },
-  "paDonate": {
-    "description": "Donate",
-    "message": "Doneren"
-  },
   "paEmpty": {
     "description": "Empty",
     "message": "Legen"
@@ -185,7 +177,7 @@
   },
   "pageActionTitle": {
     "description": "Title for the page action button",
-    "message": "Video Blocker - Beheer"
+    "message": "Journey's Youtube Video Blocker - Beheer"
   },
   "passwordChanged": {
     "description": "Password changed",
