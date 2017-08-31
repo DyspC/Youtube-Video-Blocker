@@ -168,6 +168,7 @@ function exportItems(e) {
       mm = today.getMonth() + 1,
       yyyy = today.getFullYear();
     today = mm + '/' + dd + '/' + yyyy;
+    alert("Export de la liste le "+today)
     var encodedUri = 'data:application/json;charset=utf-8,' + encodeURIComponent(JSON.stringify(items));
     var link = document.createElement("a");
     link.style.display = "none";

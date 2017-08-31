@@ -52,6 +52,11 @@ var containerList = [{
     container: '.ytp-endscreen-content .ytp-videowall-still',
     channelname: '.ytp-videowall-still-info-author',
     videotitle: '.ytp-videowall-still-info-title'
+  },
+  {	// Appeared in the top left hand corner of a fullscreen video 
+    container: '.ytp-title .ytp-title-channel',
+    channelname: '.ytp-title-channel-text a',
+    videotitle: 'npne'
   }
 ];
 document.addEventListener('DOMContentLoaded', function(event) {
